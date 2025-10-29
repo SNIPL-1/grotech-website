@@ -147,12 +147,15 @@ export default function Products() {
 }
 
 function ProductDetail({ itemCode, data, images, onBack, whatsappLinkForVariant }) {
+
+  const [cart, setCart] = useCart();
+  
   const rows = data.filter(r => r.ItemCode === itemCode);
   if (rows.length === 0) return null;
   const first = rows[0];
   const img = images[itemCode] || '';
 
-  const [cart, setCart] = useCart();
+  
 
   function addToCart(variantInfo) {
     let qty = prompt('Enter quantity for ' + (variantInfo.variant || variantInfo.itemCode));
