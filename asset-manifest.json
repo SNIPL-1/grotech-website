@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/grotech-website/static/css/main.306ff93d.css",
+    "main.js": "/grotech-website/static/js/main.d137e6c7.js",
+    "static/js/239.27746e1d.chunk.js": "/grotech-website/static/js/239.27746e1d.chunk.js",
+    "static/js/213.a98da74f.chunk.js": "/grotech-website/static/js/213.a98da74f.chunk.js",
+    "static/js/455.abff2369.chunk.js": "/grotech-website/static/js/455.abff2369.chunk.js",
+    "index.html": "/grotech-website/index.html",
+    "main.306ff93d.css.map": "/grotech-website/static/css/main.306ff93d.css.map",
+    "main.d137e6c7.js.map": "/grotech-website/static/js/main.d137e6c7.js.map",
+    "239.27746e1d.chunk.js.map": "/grotech-website/static/js/239.27746e1d.chunk.js.map",
+    "213.a98da74f.chunk.js.map": "/grotech-website/static/js/213.a98da74f.chunk.js.map",
+    "455.abff2369.chunk.js.map": "/grotech-website/static/js/455.abff2369.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.306ff93d.css",
+    "static/js/main.d137e6c7.js"
+  ]
+}
