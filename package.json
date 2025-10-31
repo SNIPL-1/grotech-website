@@ -4,8 +4,8 @@
   "private": true,
   "homepage": "https://snipl-1.github.io/grotech-website",
   "dependencies": {
-    "papaparse": "^5.4.1",
     "jspdf": "^2.5.1",
+    "papaparse": "^5.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1"
@@ -19,7 +19,8 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^5.0.0",
+    "typescript": "^4.9.5"
   },
   "eslintConfig": {
     "extends": [
